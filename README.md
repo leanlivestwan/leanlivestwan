@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 欢迎来到我的github主页！
 
-<img align="right" alt="img" src="https://images7.alphacoders.com/114/thumbbig-1146879.webp" width="50%" height="auto" />
+<img align="right" alt="img" src="https://images7.alphacoders.com/114/thumbbig-1146879.webp" width="50%" height="40%" />
 
 
 #### 🌱 我目前正在做的事情：
