@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wsyyyyyyyy)
 [![Blog](https://img.shields.io/badge/my_blog-blue)](https://www.linkedin.com/in/froldanzafra/)
 
-欢迎来到我的github主页！
+🔭Welcome to my GitHub page. 👯System.out.println("Study diligently and strive for improvement every day")
 
 <img align="right" alt="img" src="https://images7.alphacoders.com/114/thumbbig-1146879.webp" width="50%" height="60%" />
 
