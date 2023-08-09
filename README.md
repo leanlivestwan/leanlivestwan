@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 欢迎来到我的github主页！
 
-<img align="right" alt="img" src="https://images7.alphacoders.com/114/thumbbig-1146879.webp" width="50%" height="40%" />
+<img align="right" alt="img" src="https://images7.alphacoders.com/114/thumbbig-1146879.webp" width="50%" height="60%" />
 
 
 #### 🌱 我目前正在做的事情：
@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 #### :computer: 编程语言和工具：
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=wsyyyyyyyy&show_icons=true&hide_border=true" />
-
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=wsyyyyyyyy&show_icons=true&hide_border=true" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
