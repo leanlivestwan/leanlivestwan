@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### This is WSYYYYYYYY!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wsyyyyyyyy)
-[![Blog](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
+[![Blog](https://img.shields.io/badge/my_blog-blue)](https://www.linkedin.com/in/froldanzafra/)
 
 欢迎来到我的github主页！
 
