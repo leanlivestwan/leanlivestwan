@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 欢迎来到我的github主页！
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://images7.alphacoders.com/114/thumbbig-1146879.webp" width="50%" height="auto" />
 
 
 #### 🌱 我目前正在做的事情：
@@ -52,4 +52,3 @@ Here are some ideas to get you started:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.wsyssl.top/) for the wonderfull [picture](https://images7.alphacoders.com/114/thumbbig-1146879.webp)</sub>
