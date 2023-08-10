@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### This is WSYYYYYYYY!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wsyyyyyyyy)
-[![Blog](https://img.shields.io/badge/my_blog-blue)](https://www.linkedin.com/in/froldanzafra/)
+[![Blog](https://img.shields.io/badge/my_blog-blue)](https://www.wsyssl.top/)
 
 🔭Welcome to my GitHub page. 👯System.out.println("Study diligently and strive for improvement every day")
 
