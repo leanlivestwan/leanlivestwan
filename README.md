@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 #### 🌱 我目前正在做的事情：
 - 在武汉读研，钻研唱、跳、rap和篮球
-- 找到了一段golang开发的后端实习，并再继续找一段java的后端实习 
+- 深信服实习三个月，字节跳动今日头条实习五个月。
 - 完善自己的项目，做自己喜欢的事！ 🚀 *coming soon*
 
 #### :muscle: 我挑战自己的事情：
