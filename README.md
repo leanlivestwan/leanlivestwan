@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### This is WSYYYYYYYY!
+### This is leanlivestwan!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wsyyyyyyyy)
 [![Blog](https://img.shields.io/badge/my_blog-blue)](https://www.wsyssl.top/)
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 #### :computer: 编程语言和工具：
 <p>
-<img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=wsyyyyyyyy&show_icons=true&hide_border=true"/>
+<img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leanlivestwan&show_icons=true&hide_border=true"/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
